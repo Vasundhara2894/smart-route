@@ -10,11 +10,11 @@ Existing navigation apps often do not account for live visual traffic conditions
 
 Key Features
 
-Fetches three possible routes for a given source and destination
-Uses live traffic images for congestion detection
-MobileNetV2 model classifies congestion levels (smooth → heavy traffic)
-Highlights the best route on an interactive map using Leaflet.js
-Responsive and clean UI with React + Tailwind CSS
+#Fetches three possible routes for a given source and destination
+#Uses live traffic images for congestion detection
+#MobileNetV2 model classifies congestion levels (smooth → heavy traffic)
+#Highlights the best route on an interactive map using Leaflet.js
+#Responsive and clean UI with React + Tailwind CSS
 
 #Tech Stack
 
